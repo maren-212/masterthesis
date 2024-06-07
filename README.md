@@ -5,3 +5,15 @@ As part of the master thesis "Hallucinations in Retrieval-Augmented Language Mod
 
 <img width="425" alt="image" src="https://github.com/maren-212/masterthesis/assets/104628466/dd6b8e2d-0267-48d4-b0bf-3f0a1dada898">
 
+
+A total of 38 transformer models were trained, which differ in terms of the following parameters: 
+
+Models	Bert-base-uncased	RoBERTa-base	DeBERTa-vs-base				
+Dataset	SNLI	ANLI	MNLI	FEVERNLI	Vitamin C	SciFact	
+Labels	2	3					
+Epochs (Training)	3	5					
+Batch Size (Training)	8	16					
+Warum up ratio 	0,05	0,1	0,15				
+Weight Decay 	0,01	0,03	0,04	0,05	0,06	0,08	0,1![image](https://github.com/maren-212/masterthesis/assets/104628466/cab888b6-9472-4fb2-8f47-f1ef1ccb7d6b)
+
+
