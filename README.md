@@ -7,8 +7,9 @@ As part of the master thesis "Hallucinations in Retrieval-Augmented Language Mod
 
 
 A total of 38 transformer models were trained, which differ in terms of the following parameters: 
+			
+![image](https://github.com/maren-212/masterthesis/assets/104628466/bc6b792d-d8ad-4d87-9913-6fa1ab0d7cfc)
 
-![image](https://github.com/maren-212/masterthesis/assets/104628466/cab888b6-9472-4fb2-8f47-f1ef1ccb7d6b)
 
 The corresponding notebook for fine tuning is: Data_and_fine_tuning.ipynb
 
